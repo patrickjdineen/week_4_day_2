@@ -61,3 +61,8 @@ INSERT INTO concessions(
 	4.99,
 	1
 );
+
+SELECT * FROM Customers;
+SELECT * FROM movies;
+SELECT * FROM tickets;
+SELECT * FROM concessions;
